@@ -9,8 +9,3 @@ This GitHub Pages demo shows how daily activities contribute to carbon footprint
 
 ### How to Use
 Enter values and calculate your carbon footprint.
-
-### Suitable for
-- National seminars
-- Student projects
-- Sustainability workshops
